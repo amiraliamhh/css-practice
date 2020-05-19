@@ -29,7 +29,7 @@ button {
   transform-style: preserve-3d;
   transform: translateZ(-100px);
   position: relative;
-  transition: all ease 2s;
+  /* transition: all ease 2s; */
 }
 #box > div {
   display: flex;
